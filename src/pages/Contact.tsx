@@ -150,8 +150,8 @@ const Contact = () => {
             <h3 style={{fontSize: '1.5rem', color: 'var(--primary-color)', marginBottom: '1rem'}}>Autres moyens de nous contacter</h3>
             <div style={{marginTop: '1rem', color: 'var(--text-light)', fontSize: '0.95rem', display: 'flex', flexDirection: 'column', gap: '0.75rem'}}>
               <p><strong>Email:</strong> akaapnetwork@gmail.com</p>
-              <p><strong>Téléphone:</strong> +1 514 918-3793</p>
-              <p><strong>Adresse:</strong> Zeh Samuel – Biyem-Assi, Yaoundé, Cameroun</p>
+              <p><strong>Téléphone:</strong> +237 699 47 20 98</p>
+              <p><strong>Adresse:</strong> Biyem-Assi, Yaoundé, Cameroun</p>
             </div>
           </div>
         </div>

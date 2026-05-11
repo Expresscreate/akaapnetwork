@@ -91,7 +91,7 @@ const Header = () => {
           <Mail size={32} className="text-orange" strokeWidth={1.5} />
           <div className="header-contact-text">
             <span className="contact-label">Contact pour assistance</span>
-            <span className="contact-number">+1 514 918-3793</span>
+            <span className="contact-number">+237 699 47 20 98</span>
           </div>
         </div>
 

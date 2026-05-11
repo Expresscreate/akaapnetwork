@@ -93,8 +93,8 @@ const Terms = () => {
           </p>
           <ul className="contact-list">
             <li><strong>Email :</strong> akaapnetwork@gmail.com</li>
-            <li><strong>Téléphone :</strong> +1 514 918-3793</li>
-            <li><strong>Adresse :</strong> Zeh Samuel – Biyem-Assi, Yaoundé, Cameroun</li>
+            <li><strong>Téléphone :</strong> +237 699 47 20 98</li>
+            <li><strong>Adresse :</strong> Biyem-Assi, Yaoundé, Cameroun</li>
           </ul>
         </div>
 

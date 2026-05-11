@@ -19,11 +19,11 @@ const Footer = () => {
             <ul className="footer-contact-list">
               <li>
                 <Phone size={15} className="text-orange" />
-                <span>+1 514 918-3793</span>
+                <span>+237 699 47 20 98</span>
               </li>
               <li>
                 <MapPin size={15} className="text-orange" />
-                <span>Zeh Samuel – Biyem-Assi, Yaoundé, Cameroun</span>
+                <span>Biyem-Assi, Yaoundé, Cameroun</span>
               </li>
               <li>
                 <Mail size={15} className="text-orange" />
